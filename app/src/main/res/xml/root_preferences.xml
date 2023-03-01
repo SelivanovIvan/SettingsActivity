@@ -1,0 +1,18 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/preferences_category_main_title">
+
+        <EditTextPreference
+            app:key="host"
+            app:title="@string/preferences_item_host_title"
+            app:useSimpleSummaryProvider="true" />
+
+        <EditTextPreference
+            android:key="UUID устройства"
+            android:title="@string/preferences_item_reader_uuid_title"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

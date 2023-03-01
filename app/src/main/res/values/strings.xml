@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SettingsActivity</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="top_menu_item_settings">Настройки</string>
+
+    <!-- Preference -->
+    <string name="preferences_category_main_title">Основные настройки</string>
+    <string name="preferences_item_host_title">HOST</string>
+    <string name="preferences_item_reader_uuid_title">UUID устройства</string>
+    <string name="swap_to_tasks">ПЕРЕЙТИ К ВЫПОЛНЕНИЮ ЗАДАНИЙ</string>
+    <string name="completed_tasks">0 из 60 заданий выполнено</string>
+    <string name="clear_all_tasks">ОЧИСТИТЬ ВСЕ ЗАДАНИЯ</string>
+
+</resources>

@@ -10,5 +10,7 @@
     <string name="swap_to_tasks">ПЕРЕЙТИ К ВЫПОЛНЕНИЮ ЗАДАНИЙ</string>
     <string name="completed_tasks">0 из 60 заданий выполнено</string>
     <string name="clear_all_tasks">ОЧИСТИТЬ ВСЕ ЗАДАНИЯ</string>
+    <string name="syncronization">СИНХРОНИЗАЦИЯ</string>
+    <string name="update_app">Обновление приложения</string>
 
 </resources>
